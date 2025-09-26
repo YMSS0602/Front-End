@@ -1,4 +1,3 @@
-body {
 font-family: Arial, sans-serif;
 background-color: #008cff;
 display: flex;
@@ -25,15 +24,6 @@ margin-bottom: 10px;
 width: 80px;
 text-align: center;
 transition: 1000ms;
-}
-input{
-
-padding: 5px;
-margin-bottom: 10px;
-width: 80px;
-text-align: center;
-transition: 1000ms;
-
 }
 
 
