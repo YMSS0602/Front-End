@@ -16,6 +16,7 @@ border-radius: 10px;
 text-align: center;
 box-shadow: 0 0 80px rgb(17, 0, 250);
 width: 280px;
+height: 320px;
 }
 
 input{
@@ -23,6 +24,16 @@ padding: 5px;
 margin-bottom: 10px;
 width: 80px;
 text-align: center;
+transition: 1000ms;
+}
+input{
+
+padding: 5px;
+margin-bottom: 10px;
+width: 80px;
+text-align: center;
+transition: 1000ms;
+
 }
 
 
@@ -33,7 +44,6 @@ background: #000dff;
 color: rgb(255, 255, 255);
 border: none;
 border-radius: 5px;
-transition: background 0.3;
 }
 
 button:hover {
@@ -44,9 +54,8 @@ background: #2bff00;
 #resultado{
 margin-top: 15px;
 text-align: center;
-padding: 10px;
-border: 1px solid #008cff;
+padding: 20px;
 border-radius: 5px;
 background: #feffff;
-min-height: 150px;
+min-height: 15px;
 }
